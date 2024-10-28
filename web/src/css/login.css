@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+main h1 {
+  text-align: center;
+  background-color: #384B70;
+  color: #FCFAEE;
+}
